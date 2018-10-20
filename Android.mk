@@ -17,7 +17,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),sisleyr)
+ifeq ($(TARGET_DEVICE),sisleylr)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libtime_genoff
